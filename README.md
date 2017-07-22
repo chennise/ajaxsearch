@@ -1,0 +1,2 @@
+# ajaxsearch
+这是基于servlet和ajax的仿照百度查询查询页面
